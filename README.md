@@ -8,5 +8,5 @@
 <br>
 
 ### Current Plan:
-![Course Mindmap](https://raw.githubusercontent.com/nathancoooper/LibreLingo-FR-from-EN/main/mindmap.png
+![Course Mindmap](https://raw.githubusercontent.com/nathancoooper/LibreLingo-FR-from-EN/main/assets/mindmap.png
  "Course Mindmap")
