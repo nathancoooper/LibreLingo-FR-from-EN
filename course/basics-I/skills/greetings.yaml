@@ -69,8 +69,14 @@ Mini-dictionary:
       - heya
       - bye
       - goodbye
+    - mon amie: my friend
+    - à tous: to everyone
+    
 
   English:
     - good morning: bonjour
     - good evening: bonsoir
-    - hello: salut
+    - my friend:
+      - mon ami
+      - mon amie
+    - to everyone: à tous
