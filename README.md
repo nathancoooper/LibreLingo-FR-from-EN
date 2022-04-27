@@ -1,1 +1,1 @@
-# course-french-from-english
+# Course: French from English
