@@ -1,0 +1,76 @@
+Skill:
+  Id: 33bfee7d-de74-4362-bf15-ce165add2dc8
+  Name: Greetings
+  Thumbnails:
+    - afternoon1
+    - morning1
+    - morning2
+
+New words:
+  - Word: bonjour
+    Translation: good morning
+    Also accepted:
+      - morning
+    Images:
+      - sun1
+      - morning1
+      - morning2
+
+  - Word: bonsoir
+    Translation: good evening
+    Also accepted:
+      - evening
+      - good afternoon
+      - afternoon
+    Images:
+      - afternoon1
+      - afternoon2
+      - afternoon3
+  
+  - Word: salut
+    Translation: hi
+    Also accepted:
+      - bye
+      - hello
+      - hey
+      - heya
+    Images:
+      - hello1
+      - hello2
+      - hello3
+
+Phrases:
+  - Phrase: Bonjour Daniel
+    Translation: Good morning Daniel
+    Alternative translations:
+      - Morning Dan
+
+  - Phrase: Salut mon amie
+    Translation: Hello my friend
+    
+  - Phrase: Bonsoir à tous
+    Translation: Good evening everyone
+    Alternative translations:
+      - Evening everyone
+    
+Mini-dictionary:
+  French:
+    - bonjour:
+      - good morning
+      - morning
+      - hello
+    - bonsoir:
+      - good evening
+      - evening
+    - salut:
+      - hi
+      - hello
+      - hey
+      - heya
+      - bye
+      - goodbye
+
+  English:
+    - good morning: bonjour
+    - good evening: bonsoir
+    - hello: salut
