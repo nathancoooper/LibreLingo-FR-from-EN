@@ -82,6 +82,20 @@ New words:
       - ADD IMAGE HERE
       - ADD IMAGE HERE
       - ADD IMAGE HERE
+    
+  - Word: tu vas bien?
+    Translation: are you doing well?
+    Images:
+      - ADD IMAGE HERE
+      - ADD IMAGE HERE
+      - ADD IMAGE HERE
+      
+  - Word: quoi de neuf?
+    Translation: what's up?
+    Images:
+      - ADD IMAGE HERE
+      - ADD IMAGE HERE
+      - ADD IMAGE HERE
 
 Phrases:
   - Phrase: Bonjour Daniel
@@ -115,6 +129,14 @@ Mini-dictionary:
       - everyone
       - everything
       - all
+    - ça: it
+    - fait:
+      - made
+      - is doing
+      - bake
+    - longtemps: long-time
+    - donc: therefore
+    - dis: hey!
     
 
   English:
@@ -129,3 +151,8 @@ Mini-dictionary:
     - everyone: tous
     - to: à
     - Daniel: Daniel (name)
+    - it: ça
+    - is doing: fait
+    - long-time: longtemps
+    - therefore: donc
+    - dis: hey!
