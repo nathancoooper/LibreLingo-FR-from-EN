@@ -38,6 +38,50 @@ New words:
       - hello1
       - hello2
       - hello3
+      
+  - Word: coucou
+    Translation: hey
+    Also accepted:
+      - hi
+      - hello
+      - hey
+      - heya
+    Images:
+      - hello1
+      - hello2
+      - hello3
+      
+  - Word: enchanté
+    Translation: nice to meet you
+    Also accepted:
+      - pleasure to meet you
+      - happy to meet you
+      - pleased to meet you
+    Images:
+      - hello1
+      - hello2
+      - hello3
+      
+  - Word: allô
+    Translation: hello
+    Also accepted:
+      - hey
+      - hi
+      - heya
+    Images:
+      - ADD IMAGE HERE
+      - ADD IMAGE HERE
+      - ADD IMAGE HERE
+      
+  - Word: ça va
+    Translation: how are you?
+    Also accepted:
+      - how's you?
+      - how are you doing?
+    Images:
+      - ADD IMAGE HERE
+      - ADD IMAGE HERE
+      - ADD IMAGE HERE
 
 Phrases:
   - Phrase: Bonjour Daniel
@@ -52,6 +96,9 @@ Phrases:
     Translation: Good evening everyone
     Alternative translations:
       - Evening everyone
+      
+  - Phrase: Ça fait longtemps, dis donc
+    Translation: Long time, no see
     
 Mini-dictionary:
   French:
