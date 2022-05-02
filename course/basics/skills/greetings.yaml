@@ -43,7 +43,7 @@ Phrases:
   - Phrase: Bonjour Daniel
     Translation: Good morning Daniel
     Alternative translations:
-      - Morning Dan
+      - Morning Daniel
 
   - Phrase: Salut mon amie
     Translation: Hello my friend
@@ -55,28 +55,30 @@ Phrases:
     
 Mini-dictionary:
   French:
-    - bonjour:
-      - good morning
-      - morning
-      - hello
-    - bonsoir:
-      - good evening
-      - evening
-    - salut:
-      - hi
-      - hello
-      - hey
-      - heya
-      - bye
-      - goodbye
-    - mon amie: my friend
-    - à tous: to everyone
+    - amie: friend (fem.)
+    - mon: my
+    - Daniel: Daniel (name)
+    - à:
+      - to
+      - at
+      - in
+      - with
+      - by
+    - tous:
+      - everyone
+      - everything
+      - all
     
 
   English:
-    - good morning: bonjour
+    - friend: bonjour
     - good evening: bonsoir
-    - my friend:
-      - mon ami
-      - mon amie
-    - to everyone: à tous
+    - my:
+      - mon
+      - ma
+    - friend:
+      - ami
+      - amie
+    - everyone: tous
+    - to: à
+    - Daniel: Daniel (name)
