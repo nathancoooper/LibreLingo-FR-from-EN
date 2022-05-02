@@ -1,1 +1,10 @@
+Module:
+  Name: "Basics"
 
+Skills:
+  - greetings.yaml
+  - questions.yaml
+  - opinions.yaml
+  - time.yaml
+  - people.yaml
+  - rules.yaml
