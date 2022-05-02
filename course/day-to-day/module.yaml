@@ -1,0 +1,9 @@
+Module:
+  Name: "Day-to-Day"
+
+Skills:
+  - sports.yaml
+  - school.yaml
+  - work.yaml
+  - home.yaml
+  - weather.yaml
